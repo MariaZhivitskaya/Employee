@@ -1,0 +1,144 @@
+Surname: Ivanov
+Name: Ivan
+Patronymic: Ivanovich
+Sex: man
+Date of bitrth: 23/08/1964
+Post: director
+Date of hire: 01/01/2000
+Salary: 2900
+Age: 52
+Experience: 17
+Head: -
+
+Surname: Petrov
+Name: Sergey
+Patronymic: Sergeevich
+Sex: man
+Date of bitrth: 20/09/1974
+Post: department head
+Date of hire: 20/12/2007
+Salary: 2230
+Age: 42
+Experience: 9
+Head: Ivanov
+
+Surname: Sidorov
+Name: Andrey
+Patronymic: Ivanovich
+Sex: man
+Date of bitrth: 02/09/1978
+Post: division head
+Date of hire: 15/07/2002
+Salary: 1850
+Age: 38
+Experience: 15
+Head: Petrov
+
+Surname: Ivolgin
+Name: Vasily
+Patronymic: Karlovich
+Sex: man
+Date of bitrth: 29/12/1961
+Post: division head
+Date of hire: 28/08/2008
+Salary: 2100
+Age: 55
+Experience: 8
+Head: Petrov
+
+Surname: Orlov
+Name: Gennady
+Patronymic: Petrovich
+Sex: man
+Date of bitrth: 12/03/1970
+Post: division head
+Date of hire: 01/01/2000
+Salary: 2000
+Age: 47
+Experience: 17
+Head: Petrov
+
+Surname: Medvedev
+Name: Igor
+Patronymic: Igorevich
+Sex: man
+Date of bitrth: 18/01/1983
+Post: manager
+Date of hire: 01/03/2004
+Salary: 800
+Age: 34
+Experience: 13
+Head: Petrov
+
+Surname: Andreev
+Name: Pyotr
+Patronymic: Petrovich
+Sex: man
+Date of bitrth: 03/02/1981
+Post: clerk
+Date of hire: 12/11/2006
+Salary: 350
+Age: 36
+Experience: 10
+Head: Sidorov
+
+Surname: Sergeev
+Name: Aleksey
+Patronymic: Petrovich
+Sex: man
+Date of bitrth: 27/04/1985
+Post: manager
+Date of hire: 12/12/2005
+Salary: 770
+Age: 32
+Experience: 11
+Head: Sidorov
+
+Surname: Snegiryov
+Name: Ivan
+Patronymic: Alekseevich
+Sex: man
+Date of bitrth: 03/12/1980
+Post: manager
+Date of hire: 01/10/2002
+Salary: 650
+Age: 36
+Experience: 14
+Head: Ivolgin
+
+Surname: Sinichkina
+Name: Elena
+Patronymic: Igorevna
+Sex: woman
+Date of bitrth: 04/05/1983
+Post: clerk
+Date of hire: 21/12/2003
+Salary: 300
+Age: 34
+Experience: 13
+Head: Orlov
+
+Surname: Galkina
+Name: Ekaterina
+Patronymic: Petrovna
+Sex: woman
+Date of bitrth: 07/10/1984
+Post: clerk
+Date of hire: 01/02/2001
+Salary: 400
+Age: 32
+Experience: 16
+Head: Orlov
+
+Surname: Lol
+Name: kek
+Patronymic: cheb
+Sex: man
+Date of bitrth: 30/07/1969
+Post: department head
+Date of hire: 15/07/2016
+Salary: 522
+Age: 48
+Experience: 1
+Head: Ivanov
+

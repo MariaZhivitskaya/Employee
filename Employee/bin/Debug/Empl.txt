@@ -1,0 +1,12 @@
+Ivanov Ivan Ivanovich 1964 08 23 director 2000 01 01 2900 - 100 man Ivanov.jpg
+Petrov Sergey Sergeevich 1974 09 20 department_head 2007 12 20 2230 100 101 man Petrov.jpg
+Sokolov Dmitry Olegovich 1972 01 17 department_head 2004 02 01 2100 100 102 man Sokolov.jpg
+Sidorov Andrey Ivanovich 1978 09 02 division_head 2002 07 15 1850 101 103 man Sidorov.jpg
+Ivolgin Vasily Karlovich 1961 12 29 division_head 2008 08 28 2100 101 104 man Ivolgin.jpg
+Orlov Gennady Petrovich 1970 03 12 division_head 2000 01 01 2000 102 105 man Orlov.jpg
+Medvedev Igor Igorevich 1983 01 18 manager 2004 03 01 800 102 106 man Medvedev.jpg
+Andreev Pyotr Petrovich 1981 02 03 clerk 2006 11 12 350 103 107 man Andreev.jpg
+Sergeev Aleksey Petrovich 1985 04 27 manager 2005 12 12 770 103 108 man Sergeev.jpg
+Snegiryov Ivan Alekseevich 1980 12 03 manager 2002 10 01 650 104 109 man Snegiryov.jpg
+Sinichkina Elena Igorevna 1983 05 04 clerk 2003 12 21 300 105 110 woman Sinichkina.jpg
+Galkina Ekaterina Petrovna 1984 10 07 clerk 2001 02 01 400 105 111 woman Galkina.jpg

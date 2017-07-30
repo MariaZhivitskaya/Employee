@@ -1,0 +1,36 @@
+C:\Users\Masha\Desktop\УП\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\Masha\Desktop\УП\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\Masha\Desktop\УП\Employee\Employee\obj\x86\Debug\Employee.Form1.resources
+C:\Users\Masha\Desktop\УП\Employee\Employee\obj\x86\Debug\Employee.Properties.Resources.resources
+C:\Users\Masha\Desktop\УП\Employee\Employee\obj\x86\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\Masha\Desktop\УП\Employee\Employee\obj\x86\Debug\Employee.exe
+C:\Users\Masha\Desktop\УП\Employee\Employee\obj\x86\Debug\Employee.pdb
+C:\Users\Masha\Desktop\УП\Employee\Employee\obj\x86\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Masha\Desktop\UP\Employee\Employee\obj\x86\Debug\Employee.exe
+C:\Users\Masha\Desktop\UP\Employee\Employee\obj\x86\Debug\Employee.pdb
+C:\Users\Masha\Desktop\UP\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\Masha\Desktop\UP\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\Masha\Desktop\UP\Employee\Employee\obj\x86\Debug\Employee.Form1.resources
+C:\Users\Masha\Desktop\UP\Employee\Employee\obj\x86\Debug\Employee.Properties.Resources.resources
+C:\Users\Masha\Desktop\UP\Employee\Employee\obj\x86\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\Masha\Desktop\UP\Employee\Employee\obj\x86\Debug\Employee.Dlg.resources
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.exe
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.pdb
+D:\for_study\UP\Employee\Employee\bin\Debug\Employee.exe
+D:\for_study\UP\Employee\Employee\bin\Debug\Employee.pdb
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.Dlg.resources
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.Form1.resources
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.Properties.Resources.resources
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.csproj.GenerateResource.Cache
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.Head.resources
+D:\for_study\UP\Employee\Employee\obj\x86\Debug\Employee.csprojResolveAssemblyReference.cache
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.exe
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.pdb
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\bin\Debug\Employee.exe
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\bin\Debug\Employee.pdb
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.csprojResolveAssemblyReference.cache
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.Dlg.resources
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.Form1.resources
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.Head.resources
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.Properties.Resources.resources
+D:\for_study\ПРОГА ВСЯ\4-й сем\Employee - Copy\Employee\obj\x86\Debug\Employee.csproj.GenerateResource.Cache

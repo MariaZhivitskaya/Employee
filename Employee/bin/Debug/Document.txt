@@ -1,0 +1,132 @@
+Surname: Petrov
+Name: Sergey
+Patronymic: Sergeevich
+Sex: man
+Date of bitrth: 20.09.1974
+Post: department head
+Date of hire: 20.12.2007
+Salary: 2230
+Age: 41
+Experience: 8
+Head: asddddddddddddd
+
+Surname: Sokolov
+Name: Dmitry
+Patronymic: Olegovich
+Sex: man
+Date of bitrth: 17.01.1972
+Post: department head
+Date of hire: 01.02.2004
+Salary: 2100
+Age: 44
+Experience: 12
+Head: asddddddddddddd
+
+Surname: Sidorov
+Name: Andrey
+Patronymic: Ivanovich
+Sex: man
+Date of bitrth: 02.09.1978
+Post: division head
+Date of hire: 15.07.2002
+Salary: 1850
+Age: 37
+Experience: 13
+Head: Petrov
+
+Surname: Orlov
+Name: Gennady
+Patronymic: Petrovich
+Sex: man
+Date of bitrth: 12.03.1970
+Post: division head
+Date of hire: 01.01.2000
+Salary: 2000
+Age: 46
+Experience: 16
+Head: Sokolov
+
+Surname: Medvedev
+Name: Igor
+Patronymic: Igorevich
+Sex: man
+Date of bitrth: 18.01.1983
+Post: manager
+Date of hire: 01.03.2004
+Salary: 800
+Age: 33
+Experience: 12
+Head: Sokolov
+
+Surname: Andreev
+Name: Pyotr
+Patronymic: Petrovich
+Sex: man
+Date of bitrth: 03.02.1981
+Post: clerk
+Date of hire: 12.11.2006
+Salary: 350
+Age: 35
+Experience: 9
+Head: Sidorov
+
+Surname: Sergeev
+Name: Aleksey
+Patronymic: Petrovich
+Sex: man
+Date of bitrth: 27.04.1985
+Post: manager
+Date of hire: 12.12.2005
+Salary: 770
+Age: 30
+Experience: 10
+Head: Sidorov
+
+Surname: Snegiryov
+Name: Ivan
+Patronymic: Alekseevich
+Sex: man
+Date of bitrth: 03.12.1980
+Post: manager
+Date of hire: 01.10.2002
+Salary: 650
+Age: 35
+Experience: 13
+Head: Sokolov
+
+Surname: Sinichkina
+Name: Elena
+Patronymic: Igorevna
+Sex: woman
+Date of bitrth: 04.05.1983
+Post: clerk
+Date of hire: 21.12.2003
+Salary: 300
+Age: 32
+Experience: 12
+Head: Orlov
+
+Surname: Galkina
+Name: Ekaterina
+Patronymic: Petrovna
+Sex: woman
+Date of bitrth: 07.10.1984
+Post: clerk
+Date of hire: 01.02.2001
+Salary: 400
+Age: 31
+Experience: 15
+Head: Orlov
+
+Surname: asddddddddddddd
+Name: asd
+Patronymic: asd
+Sex: woman
+Date of bitrth: 09.03.1980
+Post: director
+Date of hire: 29.03.2016
+Salary: 500
+Age: 36
+Experience: 0
+Head: -
+
